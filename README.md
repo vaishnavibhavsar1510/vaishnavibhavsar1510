@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently pursuing **Final Year in B.E Computer Engineer**
 
-- 💬 Ask me about **Artificial Intelligence, ML, Web Development, JAVA, Python**
+- 💬 Ask me about **Artificial Intelligence, ML, Cloud. Web Development, JAVA, Python**
 
 - 📫 How to reach me **vaishnavibhavsar03@gmail.com**
 
