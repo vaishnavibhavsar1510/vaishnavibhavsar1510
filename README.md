@@ -1,4 +1,4 @@
-![logo](https://github.com/vaishnavibhavsar1510/vaishnvaibhavsar1510/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/vaishnavibhavsar1510/vaishnavibhavsar1510/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Bhavsar</h1>
 <h3 align="center">AI & Automation Engineer · Building Voice Agents, Automations & LLM-powered Products</h3>
